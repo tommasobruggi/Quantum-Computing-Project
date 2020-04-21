@@ -16,8 +16,8 @@ The project has corroborated previous results of Grover's time complexity <img s
 
 ## Authors
 
-- Dan Buxton
 - Tommaso Bruggi
+- Dan Buxton
 - Ricardo Del Rio Fuente
 - Matthaios Chouzouris
 - Sagar Patel
